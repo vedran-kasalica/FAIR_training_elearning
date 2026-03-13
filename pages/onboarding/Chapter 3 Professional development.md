@@ -9,37 +9,36 @@ In this chapter we look at the professionalisation of data stewardship, data ste
 
 Understand how data stewardship is organised in the Netherlands, in particular in the Life Sciences & Health domain 
 
-Know the official data stewards profiles that are used in Research Performing Organisations 
+- Know the official data stewards profiles that are used in Research Performing Organisations 
 
-Know (inter)national initiatives to professionalise data stewardship  
+- Know (inter)national initiatives to professionalise data stewardship  
 
-Know the opportunities to gain expertise 
+- Know the opportunities to gain expertise 
 
-Assess the directions in which you can develop your career 
+- Assess the directions in which you can develop your career 
 
 ---
 
 ## 3.1 Data stewardship career development
 
-Short description 
+### Short description 
 
 Data stewardship has officially come of age. What began as a niche interest for researchers and librarians has become a formalized, professional pillar of the Dutch research landscape. Driven by the 2021 NPOS report and supported by organizations like NWO and Open Science NL, the role is no longer about working in isolation. Today’s data stewards are part of a visible, funded, and highly collaborative network dedicated to making research data sustainable and reusable. In this section we take you by the hand toward the career development of a Data Steward. We want you to get an overview of what your career might look like in the upcoming years.  
 
- 
 
-Learning Objectives 
+### Learning Objectives 
 
-Navigate the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
+- Navigate the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
 
-Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
+- Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
 
-Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
+- Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
 
 Pro Tip: Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first three years can help you map out your own professional milestone 
 
  
 
-(Step 1) Professionalising data stewardship 
+### (Step 1) Professionalising data stewardship 
 
 The NPOS report from 2021 was the first big step towards defining and professionalising the role in the Netherlands. It led to the adoption of a formal job profile at Dutch universities and at some university medical centres. Since then, more attention has been paid to the role and career perspectives of data stewards. Especially in a period of scarcity of experienced data stewards, research organisations see the need to invest in making it an attractive role, to recruit and keep qualified people.   
 
@@ -47,13 +46,13 @@ As the role is relatively new, and there is no formal education to become a data
 
 Several parties in the Netherlands work on strengthening data stewardship, by making it more visible (TDCCs), organising training (DCC’s, RDNL), making it required or providing funding (ZonMW, NWO, Open Science NL). You have read about these networks in Chapter 2. In the ‘Spotlight on’ series, Data Stewards explain how they got into the role, what they like about it and what they feel is lacking. See for instance:   
 
-Didi Lamers: https://tdcc.nl/spotlight-on-didi-lamers/ 
+- Didi Lamers: https://tdcc.nl/spotlight-on-didi-lamers/ 
 
-Maria Vivas Romero: https://tdcc.nl/spotlight-on-maria-vivas-romero/ 
+- Maria Vivas Romero: https://tdcc.nl/spotlight-on-maria-vivas-romero/ 
 
-Merel Postma: https://tdcc.nl/spotlight-on-merel-postema/ 
+- Merel Postma: https://tdcc.nl/spotlight-on-merel-postema/ 
 
-Kiana Moghaddam: https://tdcc.nl/spotlight-on-kiana-moghaddam/ 
+- Kiana Moghaddam: https://tdcc.nl/spotlight-on-kiana-moghaddam/ 
 
 [Any (non-female) colleague you want to propose? ....] 
 
@@ -75,7 +74,7 @@ All of the above
 
 2. Considering your career, could you describe where you would like to be in 5 years?  
 
-(Step 2) Data stewards job profiles  
+### (Step 2) Data stewards job profiles  
 
 The Dutch universities (UNL) already adopted an official job profile for data stewards in their job classification system (UFO) in 2021. This profile allows for both recognition and job mobility within the role. The profile distinguishes four types of data stewards with different scope of responsibilities and related salary scales. The profile is not yet public but can be consulted by anyone affiliated at a Dutch university. The five main activities are:  
 
@@ -107,7 +106,7 @@ Table from the blogpost on the workshop ‘Building capacity for Data Stewardshi
 
 Aside the recognition in terms of competencies and expertise, important stakeholders in the RDM landscape in The Netherlands have recognized the importance of Data Stewards. Funders for example have recognized their importance and imposed the need for a Data Steward to review Data Management Plan and other documentation that is mandatory to release their budget. Other initiatives also recognize Data Stewardship in the Science landscape overall (e.g Open Science Movement and Recognition and Rewards Team Science). 
 
-(Step 3) Rewarding and recognition for data stewardship  
+### (Step 3) Rewarding and recognition for data stewardship  
 
 As you build your career it is also important to see how you can grow and evolve in your role. An important tool is to investigate how the UFO profile allows you to navigate between different levels of Data Stewardship: Hay Nederlands document extern (liggend) 
 
@@ -143,17 +142,17 @@ Kalová, T., Frontini, F., Bracco, L., Legat, D., Meeus, J., & Hasani-Mavriqi, I
 
 ## 3.2 Training & Capacity building
 
-Short description 
+### Short description 
 
 As a Data Steward you would also need to build the skills discussed in the previous sections. In this section we aim to give you an overview of where to start this journey. In the past 6 years most of the Institutions in The Netherlands have developed their version of an Onboarding Training for Data Stewards. This is particularly true for Data Stewardship in Life Sciences and Medicine.  
 
-Learning Objectives 
+### Learning Objectives 
 
 You should be able to recognize where to find your education journey to earn new competencies as a Data Steward  
 
  
 
-(Step 1) Find the Available Training  
+### (Step 1) Find the Available Training  
 
  
 
@@ -185,26 +184,24 @@ RDNL training & community platform (domain agnostic) - place to find trainings
 
 Taxila 
 
-(Step 2) Track your Competencies and Training in your Career  
+### (Step 2) Track your Competencies and Training in your Career  
 
 Practical exercise: 
 
 Based on what you have seen in this section let’s plan for the upcoming years in your career regarding the training and competencies you want to acquire. In the following years track the competencies and trainings you would like to accomplish in the upcoming 5 years: 
 
-Year 
-
-Competencies 
-
-Training 
+Year | Competencies  | Training 
 
  
 
  
 
-Resources used 
+### Resources used 
 
 Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van 
 
 Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. https://doi.org/10.5281/zenodo.4320504  
 
- 
+ ---
+
+**Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)

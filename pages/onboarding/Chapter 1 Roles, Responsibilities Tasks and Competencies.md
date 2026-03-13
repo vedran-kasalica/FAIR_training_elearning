@@ -18,7 +18,7 @@ In this module we would first define what is meant by Data Steward in the landsc
 
 ## 1.1 Role of the Data Steward
 
-Step 1 Defining Data Stewardship 
+### Step 1 Defining Data Stewardship 
 
  
 
@@ -28,28 +28,28 @@ Data Stewardship refers to “Course of action taken by a person or group to man
 
 Source: CODATA RDM Terminology: https://terms.codata.org/rdmt/data-stewardship 
 
-Step 2 Data stewardship vs. Data steward 
+### Step 2 Data stewardship vs. Data steward 
 
 While data stewardship describes the overall process and philosophy of managing data responsibly, a data steward is the person (or sometimes a team) who is assigned specific roles and responsibilities to carry out data stewardship activities, sometimes within a team. Data stewards play a crucial role in making sure that the practices and standards associated with data stewardship are implemented in daily work. How the data steward role is shaped depends on the institute, department or even a specific project. 
 
-Step 3 Defining the Roles and Expertise Areas  
+### Step 3 Defining the Roles and Expertise Areas  
 
 The Data Steward profession in the research world has evolved in the last 10 years. The competencies and roles associated with it are varied and depend on the institution, its maturity and the research discipline it targets.  In the Netherlands the professionalization paths have delved into recognizing the skills in three main profiles: 1) policy, 2) research, 3) infrastructure (see the picture below).  
 
 There are expertise areas that are commonly associated with these profiles:  
 
  
-Fig. 1: Expertise areas for data stewards from the Professionalising Data Stewardship report (2021, add reference] 
+*Fig. 1: Expertise areas for data stewards from the Professionalising Data Stewardship report* [2021, add reference]
 
 ## 1.2 Data stewards' competencies
 
-Short description 
+### Short description 
 
 Data steward is a relatively new profession in research institutions. What a data steward’s tasks are and what expertise is required for the job can vary depending on the type of organisation and the position within the organisation, the team in which the data steward operates, the research domain, the maturity of RDM services and policies etc.  
 
 To get a better understanding of the skills and competencies of data stewards, and the training needed, Research Data Netherlands (RDNL) developed a competency framework for data stewards3. This framework should help data stewards and their employers draft learning paths that fit the data stewards’ personal as well as the organisation’s development.  
 
-Learning Objectives 
+### Learning Objectives 
 
 Know skills and competencies relevant for data stewards 
 
@@ -113,13 +113,13 @@ Transversal skills, also known as ‘soft’ or ‘non-cognitive skills’, cove
 
  
 
-Step 5 Different work contexts 
+### Step 5 Different work contexts 
 
 Data Stewards can be organised in different ways within organisations, reflecting variations in institutional structures, research practices, and available expertise. In some settings, data stewards operate from a central unit, such as a Digital Competence Center, connected to internal and external networks of research support departments such as the library, IT services or Legal experts. These Data Stewards often work on complex data related questions and services that require their broad network of research support knowledge. In other cases, data stewards are embedded directly within a research project, team or department. These dedicated/embedded Data Stewards focus on hands-on support throughout the research data lifecycle and are closely aligned with day-to-day research activities.  
 
 For more practical information about Data Steward roles and responsibilities in different work contexts you can have a look at “Have a FAIR data steward on board | FAIR Metroline”. For further background on data steward positionings, see the NPOS report Professionalising Data Stewardship in the Netherlands (Chapter 2.3). 
 
-Step 6 Data Steward Function Profiles 
+### Step 6 Data Steward Function Profiles 
 
 Unlike in other countries, in The Netherlands this professionalization path has given fruits with three different profiles: 
 
@@ -131,23 +131,14 @@ UoAs have developed a job profile but not yet adopted
 
 These profiles will be touched upon in more detailed in Chapter 3. However, at this initial point it might be a good idea to have them in mind, as you draft what Data Stewardship career journey you might want to embark on.  
 
-Step 7 Finding your place in the Data Stewardship Lanscape  
-
-Although the profession is relatively a new one, in the first years you might find yourself lost amongst the number of networks, initiatives and collaborations possible.  Here we intend to give you a comprehensive list of the resources, we found were useful in the Netherlands and Europe:  
-
-Internally: 
-
-It’s very likely that your Institution has a Data Stewards Community or group that would be your very first reference.  
-
-Practical examples from the community 
+### Practical examples from the community 
 
 In the following interviews different Data Stewards from various UMC’s in the Netherlands will talk about the area where they have developed and the contributions they have made to the field: 
 
 Maastricht UMC+ @Olav Palmen: Infra-structure development FAIR Data Points – Data Portal (Interview scheduled for February 11th 2026) 
-
  
 
-Interview Questions 
+### Interview Questions 
 
 1. Can you summarize in a few words your career as a Data Steward over the years? 
 
@@ -165,19 +156,13 @@ Interview Questions
 
 Leiden: Paula (?) or another colleague from the Training workgroup Development of Training and Educational Material  
 
-Policy:  
+### Policy:  
 
- 
-
-Resources:  
+### Resources:  
 
 NPOS report 
 
- 
-
- 
-
-Exercise I:  
+### Exercise I:  
 
 In the next exercise we invite to reflect on the skills you would like to develop in your career as a Data Steward.? This exercise in the following form, should help you to describe these choices.  
 
@@ -187,7 +172,7 @@ https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8
 
   
 
-Training 
+### Training 
 
 Relevant internal standard operating procedures (SOPs) & trainings 
 
@@ -195,11 +180,11 @@ Cursus: Essentials 4 Data Support (English) - Public | DANS
 
 This course is an introductory training for starting data professionals in all research domains. It consists of online materials that touch upon all topics related to data stewardship. The materials are freely available but you can also sign up for the course. In that case you attend two in person days and do assignments together with your peers in the weeks in between. The assignements help you to get a better grip on your role as a data steward.  
 
-HRI FAIR Metroline  
+#### HRI FAIR Metroline 
 
 The FAIR metroline is a collaboratie effort by data stewards and other experts from the Health-RI network to help take all the steps necessary to achieve your goals in FAIRifying data. Each step contains information about the importance, a step-by-step guide, what expertise is required and information on relevant training . 
 
-Data Steward Handbook 
+#### Data Steward Handbook 
 
 The Elixir community (Life Sciences)  has created a handbook for data stewards, with valuable information on all sorts of topics and use cases. It is work in progress but you can already consult it, and even volunteer to contribute to it: https://elixir-europe.github.io/ds-handbook/ 
 
@@ -207,55 +192,13 @@ The Elixir community (Life Sciences)  has created a handbook for data stewards, 
 
  
 
-Suggestions 
+### Suggestions 
 
  
 
-Literature used 
+### Literature used 
 
- 
 
-## 1.3 Key Tasks and Workflows
-
-### Daily Tasks
-
-*Add list of daily activities*
-
-### Weekly Tasks
-
-*Add list of weekly activities*
-
-### Periodic Tasks
-
-*Add list of periodic activities*
-
-## 1.4 Required Competencies and Skills
-
-### Technical Competencies
-
-*Add technical skills required*
-
-### Professional Skills
-
-*Add professional skills required*
-
-### Domain Knowledge
-
-*Add domain-specific knowledge required*
-
-## 1.5 Tools and Resources
-
-### Essential Tools
-
-*Add list of key tools*
-
-### Health-RI Resources
-
-*Add Health-RI specific resources*
-
-### Professional Development
-
-*Add professional development resources*
 
 ---
 

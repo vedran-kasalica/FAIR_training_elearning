@@ -17,11 +17,11 @@ Assess which networks, communities, and funding opportunities are most relevant 
 
 ## 2.1 National and International Networks
 
-Short description 
+### Short description 
 
 Data stewardship does not happen in isolation. To create FAIR and reusable health research data, professionals depend on a range of local, national, and international networks. These networks provide guidance, tools, training, expertise, and infrastructure that support researchers throughout the data life cycle. Understanding these networks helps data stewards navigate where to turn for support, find collaboration opportunities, and stay aligned with national and international standards. 
 
-Learning Objectives 
+### Learning Objectives 
 
 Identify key local, national, and international networks relevant to data stewardship. 
 
@@ -29,7 +29,7 @@ Explain how these networks support FAIR and responsible data stewardship.
 
 Recognize which networks are relevant based on the responsibilities, expertise areas, and function profile of the data steward. 
 
-(Step 1) Local networks 
+### (Step 1) Local networks 
 
 Local networks are the first line of support for researchers and data stewards. These networks operate within the institution and translate (inter)national guidelines into practical, day‑to‑day workflows. For most data stewards, this is where collaboration, problem‑solving, and decision‑making will happen most frequently. 
 
@@ -51,7 +51,7 @@ Local networks support FAIR and responsible data management by providing the ess
 
 Together, these networks create a coherent ecosystem where data stewards can collaborate effectively, route researchers to the right specialists, and implement FAIR practices consistently across the institution. In the section Roles of Digital Competence Centers, you will learn how DCCs work with and support these networks. 
 
-(Step 2) National networks 
+### (Step 2) National networks 
 
 National networks play a key role in coordinating research data management, FAIR implementation, and responsible data sharing across institutions in the Netherlands. These networks provide shared infrastructure, common standards, training programmes, and policy alignment that support researchers and data stewards beyond their own institutions. They complement local networks by offering expertise, guidance, and infrastructures that a single institution cannot provide alone.   
 
@@ -82,7 +82,7 @@ National networks are important because they directly influence institutional da
 Some national networks also offer funding programmes and small grants to support FAIR implementation and Open Science, including calls related to FAIR data pilots, infrastructure development, or data stewardship capacity. These opportunities are valuable for data stewards and research groups looking to improve data workflows, develop FAIR tools, or strengthen institutional support. 
 More information on this connection can be found in the section Funding Landscape in Respect to Data Stewardship. 
 
-(Step 3) International Networks 
+### (Step 3) International Networks 
 
 International networks connect Dutch researchers, data stewards, and research support professionals to global standards, best practices, infrastructures, and communities. These networks help ensure that FAIR and responsible data management is aligned beyond national borders, enabling cross‑institutional and cross‑country collaboration. Many of these networks also shape global FAIR principles, interoperability frameworks, and Open Science policies, which influence national and institutional practices in turn. 
 
@@ -120,7 +120,7 @@ International networks are important because they provide access to global exper
 
  
 
-Expertise & Training 
+### Expertise & Training 
 
 As you progress in your data stewardship career, you will naturally become familiar with more communities, societies, and cross‑institutional networks. 
 
@@ -138,16 +138,16 @@ Learn from senior colleagues and institutional experts - More experienced collea
 
 Engage with conferences and symposia - Events such as the International FAIR Convergence Symposium, RDA Plenaries, ELIXIR Europe conferences, and national Open Science days often function as informal training on how these networks operate. 
 
-Suggestions 
+### Suggestions 
 
-Literature used 
+### Literature used 
 
 
 ## 2.2 The role of digital competence centers 
 
-Short description 
+### Short description 
 
-<Main source for the short description: Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht | NWO - later check which parts are literally translated and need added info on that> 
+*Main source for the short description: Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht | NWO - later check which parts are literally translated and need added info on that*
 
 Requirements on data management have increased over time. To help researchers and facilitating staff to deal with data in a professional manner and in accordance with FAIR principles, the NWO gave multiple impulses for improving both the awareness and exchange of expertise within an organisation (by setting up a ‘local digital competence center’) and by promoting collaboration of experts on a national level per specific predefined goal for collaboration (thematic digital competence centers).  In the section ‘Section: National and International Networks’ different types of experts in local and national networks were discussed. In this chapter we will help you understand how these networks were improved by each of these types of digital competence centers (DCCs) and help you navigate the available DCCs for you. 
 
@@ -155,7 +155,7 @@ Requirements on data management have increased over time. To help researchers an
 
  
 
-Learning Objectives 
+### Learning Objectives 
 
 Understand what digital competence centers (DCC) are 
 
@@ -171,11 +171,8 @@ Knows who to contact if a desired LDCC or TDCC does not exist yet and they want 
 
  
 
- 
 
-Main body text 
-
-(Step 1) LDCCs 
+### (Step 1) LDCCs 
 
 In the past 10 years a lot has changed in the research landscape. A publication by Wilkinson and colleagues in 2016 on the FAIR principles, the new European Privacy legislation in 2018,  and the increase in Investigator Initiated Trials, which meant that researchers in the medical field took on more of the Sponsor responsibilities under the guidelines for Good Clinical Practice (GCP). Additionally, scientific advancement led to increased digitization of medical record (Electronic Health Records) and the (improved) ability of data extraction from the original source. 
 
@@ -215,7 +212,7 @@ In the Netherlands there are now 26 LDCCs: every university and university medic
 
  
 
-(Step 2) TDCCs 
+### (Step 2) TDCCs 
 
 In Step 1 you learned about the improvement on collaboration within local networks by formalizing an LDCC. In thematic DCCs (TDCCs) experts from different organisations within the same field.  
 
@@ -229,13 +226,13 @@ TDCC of Social Sciences & Humanities (SSH)
 
 The TDCC’s receive funding from NWO for 1. network activities 2. projects that address challenges in their domain. Each of these TDCCs can have projects on multiple topics. TDCC-LSH for example has 2 types of projects, divided in Bottleneck projects and Challenge projects. A bottleneck project currently ongoing is a FAIR fellowship programme in which each institution could enroll 1 data expert such as a local data steward to collaborate with other fellows and mentors from other organisations, to collectively work on building and improving knowledge related to data standards on a national level. 
 
-<To add video from someone talking about the TDCC they are involved in – e.g. Karen Sap from Amsterdam UMC – with a fellowship related to ISA standards, and her mentors from other knowledge institutions for this programme. Or Meron Maas (policymaker on DCCs at NWO>  
+*To add video from someone talking about the TDCC they are involved in – e.g. Karen Sap from Amsterdam UMC – with a fellowship related to ISA standards, and her mentors from other knowledge institutions for this programme. Or Meron Maas (policymaker on DCCs at NWO)*
 
 Even if you work in one field, say you work in LSH, it could still be that you are an expert that could contribute to a topic addressed by in another  different TDCC. An LSH expert on research software development in an academic hospital for example, could be involved in TDCC-NES for the alignment on how to further development of career paths for Research Software Engineers. Or if you are a data steward involved in policies for dealing with interview data, you could be involved in the TDCC-SSH, even though you are a data steward in a hospital. 
 
  
 
-(Step 3) Getting involved 
+### (Step 3) Getting involved 
 
 If you are new in your organisation and/or the role of data steward, you may still look for a predefined role for you specifically. In Chapter 1 <add link> you learned more on the many possible tasks for a data steward and to navigate what is expected from you in your role. It could be that your expertise (either the expertise you have or are building) would be beneficial in an LDCC and perhaps also in a TDCC, but... How do you get involved? 
 
@@ -257,21 +254,21 @@ By signing up to a mailing list or slack community you could learn what is going
 
  
 
-<assignment: let students write down (for themselves we will not review their answers) a main contact for them in their organisation to go to if they have questions on the LDCC and how they could contribute, and 1 type of TDCC and contactname/general e-mailaddress to contact if they want to find out more or contribute> 
+*assignment: let students write down (for themselves we will not review their answers) a main contact for them in their organisation to go to if they have questions on the LDCC and how they could contribute, and 1 type of TDCC and contactname/general e-mailaddress to contact if they want to find out more or contribute*
 
  
 
-Expertise 
+### Expertise 
 
 LDCC & TDCC: Digitale Competentie Centra | NWO 
 
 TDCC: How to participate - TDCC.nl  
 
-< add link to related metroline page if available> 
+* add link to related metroline page if available*
 
  
 
-Training 
+### Training 
 
 Refer to other sections 
 
@@ -279,11 +276,11 @@ Refer to the relevant Metroline pages
 
 If your organisation has not set up data management services yet, or has not formalized a network yet, you may benefit from an online course on ‘Delivering Research Data Management Services’ by Futurelearn. 
 
-Suggestions 
+### Suggestions 
 
 Not sure what to do with this sub-chapter. 
 
-Literature used 
+### Literature used 
 
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18 
 
@@ -307,7 +304,7 @@ https://tdcc.nl/dsig/how-to-participate/
 
 ## 2.3 Funding landscape in Research Data Management: what Data Stewards need to know
 
-Short description 
+### Short description 
 
 Research funders increasingly expect evidence that research data will be well managed and openly shared. Most project proposals now require a short data management section, and once funding is awarded, a full DMP and FAIR research outputs at the project’s end are mandatory. These requirements support responsible research and good data stewardship. 
 
@@ -315,7 +312,7 @@ As a data steward, understanding the major funding bodies and their data steward
 
  
 
-Learning Objectives 
+### Learning Objectives 
 
 Recognise key national and international funders 
 
@@ -327,15 +324,9 @@ Understand major policies driving current funding programmes
 
  
 
- 
 
- 
 
-Main body text 
-
- 
-
-(Step 1) International funders 
+### (Step 1) International funders 
 
  
 
@@ -447,7 +438,7 @@ Calls are often collaborative, involving multiple project partners. The best way
 
  
 
-(Step 2) National funders 
+### (Step 2) National funders 
 
  
 
@@ -518,7 +509,7 @@ Health~Holland funds large public‑private R&D data-driven programs where data 
 
  
 
-Expertise 
+### Expertise 
 
  
 
@@ -532,6 +523,6 @@ Webinar - 8th Horizon Europe Open Science requirements in practice
 
  
 
-Training 
+### Training 
 
 Quiz - tdb 
