@@ -30,11 +30,11 @@ theme_variables:
   # back_to_top: true
   # dev-info-banner: false
   # privacy_statement_url: /privacy
-  # github_buttons: 
-  #   position: top
-  #   edit_me: true
-  #   open_issue: true
-  #   history: true
+  github_buttons: 
+    position: top
+    edit_me: true
+    open_issue: true
+    history: false
   # datatables:
   #   searchbuilder: True
   # headings:
