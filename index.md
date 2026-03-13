@@ -1,5 +1,5 @@
 ---
-title: Health-RI FAIR Training & eLearning
+title: Health-RI FAIR Training & eLearning!
 ---
 
 ## Welcome to Health-RI Training Portal
