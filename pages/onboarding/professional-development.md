@@ -112,7 +112,7 @@ As you build your career it is also important to see how you can grow and evolve
 
  
 
-A national Rewards & Recognition programme works towards modernising the traditional way of assessing research. This means that the focus is shifting from publications to other qualities as teaching, creating impact, leadership and, in the case of UMCs, patient care. Open science practices and team science are also aspects that are valued more, which means that data stewards can get recognition for their role as part of a research team or for their efforts to make data FAIR.  
+A national Rewards & Recognition programme works towards modernising the traditional way of assessing research. This means that the focus is shifting from publications to other research output and qualities such as teaching, creating impact, leadership and, in the case of UMCs, patient care. Open science practices and team science are also aspects that are valued more, which means that data stewards can get recognition for their role as part of a research team or for their efforts to make data FAIR.  
 
 Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship -> RDA wg Data Steward Career Tracks.  The RDA Data Steward Career Tracks WG proposes to approach data steward career tracks systematically by developing a methodology for data steward persona definition and creating a sample of data steward personas as well as career pathways for the sample personas.  
 
