@@ -9,12 +9,12 @@ columns:
   - type: links
     width: 3
     children: 
-      - url_text: Home
-        url: /
+      - url_text: Data Stewards Onboarding
+        url: /onboarding-overview
   - type: links
     width: 3
     children: 
-      - url_text: Example page
+      - url_text: Example Training
         url: /example_page
   - type: image
     image_width: 88px

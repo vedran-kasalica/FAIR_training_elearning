@@ -3,4 +3,6 @@
 subitems:
 - title: Home
   url: /index
+- title: Data Stewards Onboarding
+  url: /onboarding-overview
     
