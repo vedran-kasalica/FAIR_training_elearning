@@ -10,7 +10,7 @@ title: "Networks, Funding & Communication"
 
 ## 2.1 Understanding the Health-RI Network
 
-### Network Structure
+### Network Structure test
 
 *Add description of the Health-RI Network structure*
 
