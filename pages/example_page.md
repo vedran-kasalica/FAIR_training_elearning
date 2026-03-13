@@ -1,5 +1,5 @@
 ---
-title: Example page
+title: First training
 ---
 
-This page serves as an example page.
+This page serves as an example page of the first training.
