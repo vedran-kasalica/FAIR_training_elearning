@@ -5,6 +5,11 @@ title: "Roles & Responsibilities; Tasks & Competencies"
 ## Chapter summary
 
 You have just started in your new role as a data steward in the health domain.  Data steward is a relatively new profession in research institutions. What a data steward’s tasks are and what expertise is required for the job can vary depending on the type of organisation and the position within the organisation, the team in which the data steward operates, the research domain, the maturity of RDM services and policies in place etc. In this chapter you will learn about data stewardship, the different roles and competencies and you will hear how more experienced data stewards perceive their job. 
+## Section role of the Data Steward
+You have just started in your new role as a data steward in the health domain.  Data steward is a relatively new profession in research institutions. What a data steward’s tasks are and what expertise is required for the job can vary depending on the type of organisation and the position within the organisation, the team in which the data steward operates, the research domain, the maturity of RDM services and policies in place etc. In this chapter you will learn about data stewardship, the different roles and competencies and you will hear how more experienced data stewards perceive their job. 
+
+## Short Description 
+In this module we will discuss what is meant by data stewardship and the role of data stewards in the Life Sciences and Health research domain.  
 
 ## Learning Objectives
 
@@ -28,18 +33,54 @@ Data Stewardship refers to a:
 
 Source: CODATA RDM Terminology: https://terms.codata.org/rdmt/data-stewardship 
 
-
 The goal is making research data findable, accessible, interoperable and reusable (FAIR) for the long term.  However, regardless of where they fall on the spectrum, a data steward must always prioritize privacy and ethics while guiding researchers through the FAIR principles.  
 
 Data stewards in the health domain deal with domain specific types of data, requirements and regulations. E.g. for research in the Netherlands, they must distinguish between data governed by the Medical Research Involving Human Subjects Act (WMO) and non-WMO data, as this distinction significantly impacts the regulatory requirements for the project. Another example is the European Health Data Space, (EHDS) which will have a big impact on how organisations in the health sector handle and share data. 
 
-** Data Steward Competencies 
-** Short Description
+## Quiz Question :  
+
+According to the definition provided in this chapter, what is the primary focus of “efficient” data stewardship? 
+
+-The pure technical storage/archival of the data after a research project is completed  
+
+- Applying the FAIR principles adequately or advising people on how to do it 
+
+- Knowing enough about meta-data standards, ownership and regulations (e.g. GDPR)?  
+
+- Personal Skills 
+
+- All of the above  
+
+ ## Correct answer: E A steward must have some or all of a balanced combination of all the skills mentioned 
+
+ ## Data Stewardship vs Data Steward 
+ 
+ While data stewardship entails the overall process and of managing data responsibly, a data steward is the person who is assigned specific roles and responsibilities to carry out data stewardship activities, within an organization. Data stewards play a crucial role in making sure that the practices and standards associated with data stewardship are implemented in daily work. How the data steward role is shaped depends on the organization, department or even a specific project.
+
+ ## Quiz Question : 
+ 
+What is the key difference between 'Data Stewardship' and a 'Data Steward'? 
+
+A. Data Stewardship is a software tool, while a Data Steward is the person who operates it. 
+
+B. Data Stewards only work in universities, while Data Stewardship only happens in hospitals. 
+
+C. Stewardship is the overall process of responsible management, while the Steward is the person assigned specific roles to implement it. 
+
+D. There is no difference; the terms are interchangeable in all professional contexts. 
+
+ 
+## Correct Answer C:  The steward is the actor who puts the standards and practices of stewardship into daily practices within an organization  
+
+## Section Data Steward Competencies 
+##  Short Description
+
 To get a better understanding of the skills and competencies of data stewards, and the training needed, Research Data Netherlands (RDNL) developed a competency framework for data stewards3 . This framework can help data stewards and their employers draft learning paths that fit the data stewards’ personal as well as the organisation’s development.  
-** Learning Objectives
+
+##  Learning Objectives
 Understand the competencies needed to be qualified Data Steward 
 
-### Step 1 Competencies 
+## Step 1 Developing Competencies 
 
 What you do in practice as a data steward depends largely on:  
 
@@ -59,8 +100,6 @@ with a variety of expertise and specialisations;
 
 • the scientific discipline. 
 
- 
-
 The Data Steward profession in the research world has evolved over the years. The competencies and roles associated with it are varied and depend on the institution, its maturity and the disciplines it targets.  In the Netherlands, the professionalization paths have developed into recognizing the skills within three main areas: 1) policy, 2) research, 3) infrastructure, which will require a combination of different competencies. [Fig. 1].  You will probably specialize in one or more of the areas according to the needs of your organisation, the expertise you bring and your personal interests. 
 
 Fig. 1: Expertise areas for data stewards from the Professionalising Data Stewardship report (NPOS 2021) 
@@ -68,9 +107,10 @@ Fig. 1: Expertise areas for data stewards from the Professionalising Data Stewar
 The expertise areas illustrated in the figure above are also described in the  RDNL Competency framework - RDNL competency framework for data stewards, developed by Research Data Netherlands (RNDL) in 2025. In this new framework, additional competencies to those described in Fig. 1, include research software management, training and awareness raising, see fig. 2.    
 
 Fig. 2: Competency framework for data professionals, developed in the context of the RDNL project to build a national training & community platform for data professionals. The competency framework is described in 10.5281/zenodo.17952684 
+
 There are expertise areas that are commonly associated with these profiles. Data stewards in general have a basic understanding of all these areas, but mostly specialise in specific area(s), depending on their position as described above. Have a  look at the competencies in more detail: https://researchdata.nl/en/about-training/competency-framework/. 
 
- 
+
 
 RDM, FAIR principles & open science covers competencies required for providing tailored advice, curating datasets, and providing hands-on data management in line with good research data management (RDM) practices and the FAIR and open science principles.  
 
@@ -88,7 +128,25 @@ Transversal skills, also known as ‘soft’ or ‘non-cognitive skills’, cove
 
 See Chapter 3 for information on available training to further develop skills and competencies. 
 
-### Step 2 Different work contexts
+## Quiz Question: 
+
+1. The Multi-Tasker vs. The Specialist 
+
+Scenario: You have just been hired as the sole Data Steward for a small research institute. Because you are the only person in the role, your daily tasks range from helping a researcher write a Data Management Plan (DMP) to advising other researchers in the department on storage requirements. 
+
+Question: According to the "Developing Competencies" section, why is your role shaped this way? 
+
+A) Because the organization lacks maturity in RDM services. 
+
+B) Because the role is one in which multiple competences are needed daily.  
+
+C) Because the scientific discipline requires a generalist approach. 
+
+D) Because "Transversal skills" are more important than technical ones in small institutes. 
+
+## Correct Answer: B. The text explicitly mentions that the expertise in the team (multitasker vs. large team) is a primary factor in how your practice is shaped. 
+
+## Step 2 Different work contexts
 
 Data Stewards can be organised in different ways within organisations, reflecting variations in institutional structures, research practices, and available expertise. In some settings, data stewards operate from a central unit, such as a Digital Competence Center (see Chapter 2), connected to internal and external networks of research support departments such as the library, IT services or Legal experts. These Data Stewards often work on complex data related questions and services that require their broad network of research support professionals. In other cases, data stewards are embedded directly within a research project, team or department. These dedicated/embedded Data Stewards focus on hands-on support throughout the research data lifecycle and are closely aligned with day-to-day research activities.  
 
@@ -96,6 +154,30 @@ For more practical information about Data Steward roles and responsibilities in 
 
  
 *Fig. 1: Expertise areas for data stewards from the Professionalising Data Stewardship report* [2021, add reference]
+Data stewardship personas are often defined by the specific roles stewards play and the scope of the research data they support. The nature of the data is one of the criteria that dictates the data steward’s focus: 
+
+
+## Quiz Question : 
+
+1. Identifying the Support Model 
+
+Scenario: A researcher is starting a new three-year project on clinical genomics and needs a dedicated person to manage their data daily, from the moment it is collected until it is archived. They hire a steward who sits in their office and attends all team meetings. 
+
+Question: Which organizational model does this represent? 
+
+A) A Centralized Unit 
+
+B) A Digital Competence Center 
+
+C) An Embedded Data Steward 
+
+D) An External Consultant 
+
+## Correct Answer: C. Embedded stewards are hired directly within a research project or team and are alignedinvolved in with day-to-day activities. 
+
+## Did you know
+Did you know 
+
 Data stewardship personas are often defined by the specific roles stewards play and the scope of the research data they support. The nature of the data is one of the criteria that dictates the data steward’s focus: 
 
 Qualitative Data: This scope encompasses data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality. 
@@ -108,8 +190,10 @@ Clinical data...
 
 Omics.... 
 
-** Practical Examples from the Community 
+## Practical Examples from the Community 
 In the following interviews a variety of Data Stewards from  UMCs in the Netherlands will talk about the devolopments made in their area the contributions they have made to the field: 
+
+<iframe width="761" height="428" src="https://www.youtube.com/embed/IcDv6iE3pYY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Exercise I:  
 
